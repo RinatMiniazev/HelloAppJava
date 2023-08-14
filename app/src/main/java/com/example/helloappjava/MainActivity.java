@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.d(TAG, "onCreate: started");
         Log.d(TAG, "onCreate: started from github");
+        Log.d(TAG, "onCreate: started from github again");
 
     }
 
